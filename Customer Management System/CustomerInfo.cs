@@ -7,9 +7,9 @@ namespace Customer_Management_System
     class CustomerInfo
     {
         public double Id { get; set; }
-        public string name { get; set; }
-        public string surname { get; set; }
-        public float money { get; set; }
+        public string Name { get; set; }
+        public string Surname { get; set; }
+        public float Money { get; set; }
 
     }
 }
